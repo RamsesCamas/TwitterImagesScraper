@@ -1,0 +1,1 @@
+$x('//img[@alt="Imagen"]/@src').map(x=>x.value)
